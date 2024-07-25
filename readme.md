@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/blackbear10000/cicd_test/actions/workflows/maven.yml/badge.svg)
 
 # Introduction
 
